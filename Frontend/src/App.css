@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.divider {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
